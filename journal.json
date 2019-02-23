@@ -1,0 +1,157 @@
+{
+  "items": [
+    {
+      "event": "mise en bouteille !",
+      "date": 1515252881.345,
+      "recipe": "2017.12 - Fond de cul de Yann"
+    },
+    {
+      "event": "ca glougloute !",
+      "date": 1513537112,
+      "recipe": "2017.12 - Fond de cul de Yann"
+    },
+    {
+      "event": "mise en fermentation",
+      "date": 1513443377,
+      "recipe": "2017.12 - Fond de cul de Yann"
+    },
+    {
+      "event": "Mise en bouteille",
+      "date": 1494011809,
+      "recipe": "Fond de cul"
+    },
+    {
+      "event": "mise en fermentation - dry hop - 15g target et 20g colombus",
+      "date": 1492020139,
+      "recipe": "Fond de cul"
+    },
+    {
+      "event": "brass\u00e9e",
+      "date": 1490737391,
+      "recipe": "Fond de cul"
+    },
+    {
+      "event": "mise en fermentation",
+      "date": 1490722979,
+      "recipe": "Fond de cul"
+    },
+    {
+      "event": "Mise en bouteille, resucrage \u00e0 environ 10g/L",
+      "date": 1455557966,
+      "recipe": "Feins de soif #1"
+    },
+    {
+      "event": "Mise en seconde fermentation avec Dry Hopping Citra 40g",
+      "date": 1453839195,
+      "recipe": "Feins de soif #1"
+    },
+    {
+      "event": "mise en fermentation",
+      "date": 1453231485,
+      "recipe": "Feins de soif #1"
+    },
+    {
+      "event": "Densit\u00e9 mesur\u00e9e : 1021. Un peu \u00e9lev\u00e9... Resucrage \u00e0 7g/L",
+      "date": 1412657470,
+      "__class__": "JournalItem",
+      "recipe": "Test de Septembre 2014"
+    },
+    {
+      "event": "Mise en bouteille !",
+      "date": 1412657452,
+      "__class__": "JournalItem",
+      "recipe": "Test de Septembre 2014"
+    },
+    {
+      "event": "Mise en seconde fermentation avec Dry Hopping. Densit\u00e9 mesur\u00e9e : 1022",
+      "date": 1411925115,
+      "__class__": "JournalItem",
+      "recipe": "Test de Septembre 2014"
+    },
+    {
+      "event": "Ca a glouglout\u00e9 1 grosse journ\u00e9e fortement, apr\u00e8s \u00e7a a bien ralenti",
+      "date": 1411906257,
+      "__class__": "JournalItem",
+      "recipe": "Test de Septembre 2014"
+    },
+    {
+      "event": "Ca glougloutte bien fort !",
+      "date": 1411382101,
+      "__class__": "JournalItem",
+      "recipe": "Test de Septembre 2014"
+    },
+    {
+      "event": "Densit\u00e9 avant mise en fermentation 1080",
+      "date": 1411328428,
+      "__class__": "JournalItem",
+      "recipe": "Test de Septembre 2014"
+    },
+    {
+      "event": "Densit\u00e9 pr\u00e9-\u00e9bulition 1060",
+      "date": 1411328405,
+      "__class__": "JournalItem",
+      "recipe": "Test de Septembre 2014"
+    },
+    {
+      "event": "mise en fermentation",
+      "date": 1411328362,
+      "__class__": "JournalItem",
+      "recipe": "Test de Septembre 2014"
+    },
+    {
+      "event": "Hum qu'elle est bonne !",
+      "date": 1402250446,
+      "__class__": "JournalItem",
+      "recipe": "IPA"
+    },
+    {
+      "event": "Mise en bouteille (je crois)",
+      "date": 1393354727,
+      "__class__": "JournalItem",
+      "recipe": "IPA"
+    },
+    {
+      "event": "\u00c7a glougloutte encore :p",
+      "date": 1392788957,
+      "__class__": "JournalItem",
+      "recipe": "IPA"
+    },
+    {
+      "event": "Dry Hopping",
+      "date": 1392702527,
+      "__class__": "JournalItem",
+      "recipe": "IPA"
+    },
+    {
+      "event": "Soutirage en seconde fermentation",
+      "date": 1392702497,
+      "__class__": "JournalItem",
+      "recipe": "IPA"
+    },
+    {
+      "event": "\u00c7a glougloutte !",
+      "date": 1392183571,
+      "__class__": "JournalItem",
+      "recipe": "IPA"
+    },
+    {
+      "event": "Densit\u00e9 initiale mesur\u00e9e : 1062",
+      "date": 1392154785,
+      "__class__": "JournalItem",
+      "recipe": "IPA"
+    },
+    {
+      "event": "mise en fermentation",
+      "date": 1392154768,
+      "__class__": "JournalItem",
+      "recipe": "IPA"
+    },
+    {
+      "event": "Cr\u00e9ation de la recette IPA",
+      "date": 1390140540,
+      "__class__": "JournalItem",
+      "recipe": "IPA"
+    }
+  ],
+  "name": "journal"
+}
